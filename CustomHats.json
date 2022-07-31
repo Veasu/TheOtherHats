@@ -12,6 +12,19 @@
             "resource": "megaphone_bounce.png"
         },
         {
+            "author": "Veasu",
+            "bounce": true,
+            "climbresource": "SussyClimb.png",
+            "flipresource": "SussyFlip.png",
+            "condition": "None",
+            "name": "Sussy",
+            "package": "Discord Meme Hats",
+            "reshasha": "f9fafd13dda16542601b0d32ed4ff7c0",
+            "reshashf": "dbb975277bf95847810ca1a61f8ac200",
+            "reshashc": "fffb179defb13d74a1f9beede0d67310",
+            "resource": "Sussy.png"
+        },
+        {
             "author": "Ruolbu",
             "climbresource": "cat_climb.png",
             "condition": "None",
