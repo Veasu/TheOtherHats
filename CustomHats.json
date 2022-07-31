@@ -14,8 +14,8 @@
         {
             "author": "Veasu",
             "bounce": true,
-            "climbresource": "SussyClimb.png",
-            "flipresource": "SussyFlip.png",
+            "climbresource": "Sussy_climb.png",
+            "flipresource": "Sussy_flip.png",
             "condition": "None",
             "name": "Sussy",
             "package": "Discord Meme Hats",
